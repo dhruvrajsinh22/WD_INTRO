@@ -1,0 +1,33 @@
+.info {
+    font-size: 28px;
+    border: 5px solid #3886d4;
+    padding: 10px;
+    margin-bottom: 15px;
+    background-color: #d4fd52;;
+    color: #000;
+    border-radius: 14px;
+}
+
+.ala {
+    width: 20vw;
+    height: 100px;
+    background-color: orange;
+    border-radius: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: background-color 0.3s ease;
+}
+.ala-box {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+.university {
+    font-size: 26px;
+    text-align: center;
+    padding: 10px;
+    background-color: #3498db;
+    color: white;
+    border-radius: 8px;
+}
